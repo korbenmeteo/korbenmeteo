@@ -1,0 +1,8 @@
+{
+  "points": [
+    {"name": "Londres", "latitude": 51.5072, "longitude": -0.1276, "country_code": "GB"},
+    {"name": "New York", "latitude": 40.7128, "longitude": -74.0060, "country_code": "US"},
+    {"name": "Paris", "latitude": 48.8566, "longitude": 2.3522, "country_code": "FR"},
+    {"name": "Tokyo", "latitude": 35.6764, "longitude": 139.6500, "country_code": "JP"}
+  ]
+}
